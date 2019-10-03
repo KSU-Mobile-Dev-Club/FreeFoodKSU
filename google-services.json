@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647465069799",
+    "firebase_url": "https://freefoodksu-fe241.firebaseio.com",
+    "project_id": "freefoodksu-fe241",
+    "storage_bucket": "freefoodksu-fe241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647465069799:android:e6f3c524404705dcaf0642",
+        "android_client_info": {
+          "package_name": "com.MDC.FreeFoodKSU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647465069799-ag4788rfdr63mcniu55qe09rt5aohlqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XMj2h6BR_XekpKIMBFyOivSGfwDJ92M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647465069799-ag4788rfdr63mcniu55qe09rt5aohlqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
